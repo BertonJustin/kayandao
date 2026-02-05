@@ -1,12 +1,22 @@
 [
   {
     "id": 1,
-    "name": "易山",
+    "name": "星轨",
     "role": "服务器所有者",
     "roleTag": "所有者",
     "roleColor": "red",
     "description": "服务器创始人，负责整体运营和管理",
-    "avatar": "https://files.gta-e.cn/files/_a2Ikzn_Oo.png"
+    "avatar": "https://free.picui.cn/free/2026/02/05/6984398c4a1d4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "易山",
+    "role": "服务器技术,
+    "roleTag": "技术支持",
+    "roleColor": "blue",
+    "description": "服务器技术支持，负责整体技术维修",
+    "avatar": "https://free.picui.cn/free/2025/10/29/6901c5c9ab88e.png"
   }
 ]
+
 
